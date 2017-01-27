@@ -42,3 +42,15 @@
 	"Evaluador.h"
 	<iostream>
 
+1485042407 source:c:\users\adolfalcantara\desktop\progra3\lab progra 3\progra3tarea1\evaluador.cpp
+	"Evaluador.h"
+
+1484984841 c:\users\adolfalcantara\desktop\progra3\lab progra 3\progra3tarea1\evaluador.h
+	<iostream>
+	<stack>
+
+1485042582 source:c:\users\adolfalcantara\desktop\progra3\lab progra 3\progra3tarea1\main.cpp
+	"Evaluador.h"
+	<iostream>
+	<climits>
+
